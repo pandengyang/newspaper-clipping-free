@@ -1,0 +1,30 @@
+{
+  "id": "4438566",
+  "name": "nc",
+  "font_family": "element-icons",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4320363",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "4553731",
+      "name": "聊天记录",
+      "font_class": "liaotianjilu",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "17833630",
+      "name": "撤销",
+      "font_class": "chexiao",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

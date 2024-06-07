@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "element-icons"; /* Project id 4438566 */
+  src: url('iconfont.woff2?t=1708917926119') format('woff2'),
+       url('iconfont.woff?t=1708917926119') format('woff'),
+       url('iconfont.ttf?t=1708917926119') format('truetype');
+}
+
+.element-icons {
+  font-family: "element-icons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-bangzhu:before {
+  content: "\e65f";
+}
+
+.el-icon-liaotianjilu:before {
+  content: "\e7dc";
+}
+
+.el-icon-chexiao:before {
+  content: "\e617";
+}
+

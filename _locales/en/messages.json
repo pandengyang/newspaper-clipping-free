@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "Newspaper Clipping",
+    "description": "Extension name."
+  },
+  "extDesc": {
+    "message": "A tool for cropping content of interest on web pages.",
+    "description": "Extension description."
+  },
+  "switchNewspaperClippingMode": {
+    "message": "Enter/Exit newspaper-clipping mode",
+    "description": "switch newspaper-clipping mode title."
+  },
+  "undo": {
+    "message": "Undo",
+    "description": "undo title."
+  },
+  "undoTip": {
+    "message": "Supports only undoing the last deletion step",
+    "description": "undo tip."
+  }
+}

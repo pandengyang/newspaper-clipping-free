@@ -1,0 +1,19 @@
+.nc-delete-mask {
+  outline: 3px dashed #d4237a !important;
+  background-color: rgba(212, 35, 122, 0.2) !important;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/images/remove.png') !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: 32px 32px !important;
+  cursor: pointer;
+}
+
+.nc-capture-mask {
+  outline: 3px dashed #d4237a !important;
+  background-color: rgba(212, 35, 122, 0.2) !important;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/images/capture.png') !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: 32px 32px !important;
+  cursor: pointer;
+}

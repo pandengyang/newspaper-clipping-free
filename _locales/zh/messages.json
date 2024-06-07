@@ -1,0 +1,22 @@
+{
+  "extName": {
+    "message": "剪报",
+    "description": "Extension name."
+  },
+  "extDesc": {
+    "message": "一款用于在网页上裁剪感兴趣内容的工具。",
+    "description": "Extension description."
+  },
+  "switchNewspaperClippingMode": {
+    "message": "进入/退出剪报模式",
+    "description": "switch newspaper-clipping mode title."
+  },
+  "undo": {
+    "message": "撤销",
+    "description": "undo title."
+  },
+  "undoTip": {
+    "message": "只支持撤销最后一步删除操作",
+    "description": "undo tip."
+  }
+}
